@@ -54,7 +54,7 @@ audio = gla_ext.gla_update(alpha, n, audio, spectrogram_pseudo)
 
 #### Inference Loop
 
-The following code presents how the GLA extension is integrated into the waveform generative diffusion models, using the [inference of WaveGrad](https://github.com/lmnt-com/wavegrad) as an example:
+The following code presents how the GLA extension can be simply integrated into the waveform generative diffusion models, using the [inference of WaveGrad](https://github.com/lmnt-com/wavegrad) as an example:
 
 ```
 for n in range(len(alpha) - 1, -1, -1):
