@@ -6,7 +6,7 @@
 
 
 
-[GLA-Grad](https://github.com/GLA-Grad/GLA-Grad) aims at minimizing the conditioning error and increasing the efficiency of the noise diffusion process, and consists in introducing a phase recovery algorithm such as the Griffin-Lim algorithm (GLA) at each step of the regular diffusion process. The architecture is described in [GLA-Grad: A Griffin-lim Extended Waveform Generation Diffusion Model](https://). 
+[GLA-Grad](https://github.com/GLA-Grad/GLA-Grad) aims at minimizing the conditioning error and increasing the efficiency of the noise diffusion process, and consists in introducing a phase recovery algorithm such as the Griffin-Lim algorithm (GLA) at each step of the regular diffusion process. The architecture is described in [GLA-Grad: A Griffin-lim Extended Waveform Generation Diffusion Model](https://arxiv.org/abs/2402.15516). 
 
 *For a detailed explanation of each implementation please refer to the comments in the file.*
 
